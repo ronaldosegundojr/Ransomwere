@@ -1,4 +1,4 @@
-import os, pyaes
+import os, sys, pyaes
 
 # Localizando e lendo os dados do arquivo ou diretório
 file_name = 'nomedoarquivo.txt.teste' #Arquivo ou diretório que será ser encriptado
